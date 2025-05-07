@@ -10,5 +10,5 @@ It can be use as a stand-alone software or as a backend-service via DjangoRestFr
 # Package Management:
 This project depedencies is managed using (uv)[https://astral.sh/blog/uv].
 + Python version "3.12.4".
-+ Django version "5.1".
++ Django version "5.2".
 
